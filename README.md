@@ -1,6 +1,6 @@
 # Design Patterns in Java
 
-A comprehensive collection of design patterns implemented in Java, covering all major creational, structural, and behavioral patterns.
+A comprehensive collection of design patterns implemented in Java, covering all major creational, structural, and behavioral patterns. 
 
 ## 📌 Features
 - Well-structured Java implementations of design patterns
